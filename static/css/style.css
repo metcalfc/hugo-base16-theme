@@ -74,8 +74,8 @@ div.clearfix {
 
 article.single section,
 .article-list article {
-  background-color: #3c3836;
-  background-color: var(--base01);
+  background-color: #504945;
+  background-color: var(--base02);
   color: #fbf1c7;
   color: var(--base07);
   padding-left: 8rem;
