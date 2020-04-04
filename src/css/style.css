@@ -10,14 +10,14 @@
   --base06: #ebdbb2;
   --base07: #fbf1c7;
 
-  --base08: #d79921;
+  --base08: #cc241d;
   --base09: #d65d0e;
-  --base0a: #cc241d;
-  --base0b: #b16286;
-  --base0c: #d3869b;
+  --base0a: #d79921;
+  --base0b: #98971a;
+  --base0c: #689d6a;
   --base0d: #458588;
-  --base0e: #689d6a;
-  --base0f: #98971a;
+  --base0e: #d3869b;
+  --base0f: #b16286;
 }
 
 .base00 { color: var(--base00); }
