@@ -29,7 +29,8 @@
     "husky": "^4.2.3",
     "postcss-preset-env": "^6.7.0"
   },
-  "dependencies": {
-    "fsevents": "^2.1.2"
+  "dependencies": {},
+  "optionalDependencies": {
+    "fsevents": "^2.1.3"
   }
 }
